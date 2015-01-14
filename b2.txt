@@ -4,3 +4,5 @@ this is the b2 file.
 23423\
 
 b2 end
+
+_2 t b2 end.
