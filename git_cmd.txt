@@ -55,3 +55,4 @@ git stash list //现场列表
 /—————————标签————————/
 git tag <name>就可以打一个新标签
 git tag查看所有标签
+
